@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hatim04" alt="hatim04" /></a> </p>
 
-- 🔭 I’m currently working on **Consultancy Projectt**
+- 🔭 I’m currently working on **E-Commerce Project**
 
-- 🌱 I’m currently learning **React JS, Vue JS**
+- 🌱 I’m currently learning **React JS, Node JS**
 
 - 👯 I’m looking to collaborate on **E-commerce**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RRpL1D_Fs4L3RLdHyeV3jB5feDBWOSrT/view?usp=sharing](https://drive.google.com/file/d/1RRpL1D_Fs4L3RLdHyeV3jB5feDBWOSrT/view?usp=sharing)
 
-- ⚡ Fun fact **I think i am**
+- ⚡ Fun fact **I think i am a Designer also**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
